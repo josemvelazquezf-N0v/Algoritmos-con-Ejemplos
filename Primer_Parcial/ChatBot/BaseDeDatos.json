@@ -1,0 +1,38 @@
+{
+    "intenciones": [
+        {
+            "tag": "saludo",
+            "patrones": [
+                "hola",
+                "buenas",
+                "que tal"
+            ],
+            "respuestas": [
+                "¡Hola! ¿En qué puedo ayudarte?",
+                "Hola, soy tu bot de Python."
+            ]
+        },
+        {
+            "tag": "despedida",
+            "patrones": [
+                "adios",
+                "chao",
+                "hasta luego"
+            ],
+            "respuestas": [
+                "¡Nos vemos pronto!",
+                "Que tengas un buen día."
+            ]
+        },
+        {
+            "tag": "estado",
+            "patrones": [
+                "como estas",
+                "que haces"
+            ],
+            "respuestas": [
+                "Estoy funcionando al 100%, ¡gracias por preguntar!"
+            ]
+        }
+    ]
+}
